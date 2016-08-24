@@ -52,7 +52,7 @@ Query|The query operation is the method for creating a guided query against an e
 	![][13]
 4. Configure the QuickBooks Entities you are interested in reading/writing in the 'Package Settings'.
 
-With this, you can now create a QuickBooks Conenctor API app.
+With this, you can now create a QuickBooks Connector API app.
 
 
 ##Create a Logic app##
